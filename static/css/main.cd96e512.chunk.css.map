@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBAEF,CAEA,SACE,cAAe,CACf,aACF,CAEA,QACE,cAAe,CACf,OAAQ,CACR,SACF","file":"main.cd96e512.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  /* text-align: center; */\n}\n\n.App pre {\n  max-width: 90vw;\n  overflow: auto;\n}\n\n.reload {\n  position: fixed;\n  top: 1em;\n  right: 1em;\n}\n"]}

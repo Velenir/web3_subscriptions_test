@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/web3_subscriptions_test/static/css/main.cd96e512.chunk.css",
+    "main.js": "/web3_subscriptions_test/static/js/main.f084dacc.chunk.js",
+    "main.js.map": "/web3_subscriptions_test/static/js/main.f084dacc.chunk.js.map",
+    "runtime-main.js": "/web3_subscriptions_test/static/js/runtime-main.8a65539c.js",
+    "runtime-main.js.map": "/web3_subscriptions_test/static/js/runtime-main.8a65539c.js.map",
+    "static/js/2.a227e2d5.chunk.js": "/web3_subscriptions_test/static/js/2.a227e2d5.chunk.js",
+    "static/js/2.a227e2d5.chunk.js.map": "/web3_subscriptions_test/static/js/2.a227e2d5.chunk.js.map",
+    "index.html": "/web3_subscriptions_test/index.html",
+    "precache-manifest.717f96e8d35682630821ba2b24e0436f.js": "/web3_subscriptions_test/precache-manifest.717f96e8d35682630821ba2b24e0436f.js",
+    "service-worker.js": "/web3_subscriptions_test/service-worker.js",
+    "static/css/main.cd96e512.chunk.css.map": "/web3_subscriptions_test/static/css/main.cd96e512.chunk.css.map",
+    "static/js/2.a227e2d5.chunk.js.LICENSE.txt": "/web3_subscriptions_test/static/js/2.a227e2d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a65539c.js",
+    "static/js/2.a227e2d5.chunk.js",
+    "static/css/main.cd96e512.chunk.css",
+    "static/js/main.f084dacc.chunk.js"
+  ]
+}
