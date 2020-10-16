@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+.App pre {
+  max-width: 90vw;
+  overflow: auto;
+}
+
+.reload {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+}
