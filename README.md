@@ -1,3 +1,12 @@
+# Purpose
+
+Quickly test subscriptions with custom RPC endpoint or injected Ethereum provider
+
+Available at https://velenir.github.io/web3_subscriptions_test
+
+------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
